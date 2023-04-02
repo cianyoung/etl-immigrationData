@@ -1,2 +1,7 @@
 .DS_Store
 config.cfg
+sas_data/
+sas_data_1/
+data/
+data.tar.gz
+dataset/
